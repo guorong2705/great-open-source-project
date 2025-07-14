@@ -9,10 +9,16 @@
 
 <img align="" height="240px" src="https://chencoding.top:8090/public/_media/communicationgroups.png" />
 
+## 推荐
+
+- [📚个人博客网站](https://chencoding.top/)
+- [📸证件照生成器](https://chencoding.top:8082/)
+
 ## 目录
 
 - [`Github` 、`Gitee` 优秀的开源项目](#github-gitee-优秀的开源项目)
   - [【关注公众号，浏览开源项目文章~】](#关注公众号浏览开源项目文章)
+  - [推荐](#推荐)
   - [目录](#目录)
   - [编程语言](#编程语言)
     - [Java 项目](#java-项目)
@@ -391,7 +397,6 @@
 - [vlife](https://github.com/wwwlike/vlife) - 企业级低代码快速开发平台。[在线体验](http://admin.vlife.cc/login) [在线文档](http://vlife.cc/guide)
 - [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
 - [mybatis-plus-code-generator](https://github.com/fengwenyi/mybatis-plus-code-generator) - `MyBatis-Plus` 代码生成器。
-- [paicoding](https://github.com/itwanger/paicoding) - 一个基于 `Spring Boot`、`MyBatis-Plus`、`MySQL`、`Redis`、`ElasticSearch`、`MongoDB`、`Docker`、`RabbitMQ` 等技术栈实现的**社区系统**。[在线体验](https://paicoding.com/)
 - [hsweb-framework](https://github.com/hs-web/hsweb-framework) - 一个基于 `Spring-Boot 2.x` 开发，首个使用全**响应式编程**的企业级后台管理系统基础项目。
 - [open-sign-old](https://github.com/kaifangqian/kaifangqian-base) - 开放签电子签章系统。[在线体验](https://demo.kaifangqian.com/)
 - [admin3](https://github.com/cjbi/admin3) - 一个轻巧的后台管理框架，项目后端基于 `Java17`、`SpringBoot 3.0`，前端基于 `TypeScript`、`Vite3`、`Vue3`、`Element Plus`.
@@ -423,7 +428,7 @@
 - [lilishop](https://github.com/lilishop/lilishop) - 商城系统，后端基于 `SpringBoot` 研发，前端使用  `Vue`、`uniapp` 开发， 前后端分离，支持分布式部署，支持 `Docker`，各个 `API` 独立。
 - [Jeebase](https://github.com/wmz1930/Jeebase) - 前后端分离的开源开发框架，基于 `SpringBoot` + `Vue`（`vue-element-admin`/`Ant Design Pro Vue`）开发。
 - [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
-- [crmeb_java](https://github.com/crmeb/crmeb_java) - 开源商城系统 `Java` 版，基于 `Java` + `Vue` + `Uni-app` 开发，在微信公众号、小程序、`H5` 移动端都能使用。[在线体验](https://admin.java.crmeb.net/)
+- [crmeb_java](https://github.com/crmeb/crmeb_java)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0B-5LR3GnWvqYEvMT9gb2w)</sup> - 开源商城系统 `Java` 版，基于 `Java` + `Vue` + `Uni-app` 开发，在微信公众号、小程序、`H5` 移动端都能使用。[在线体验](https://admin.java.crmeb.net/)
 - [xzs](https://github.com/mindskip/xzs) - 一款 `Java` + `Vue` 的前后端分离的考试系统。[在线体验](https://www.mindskip.net/xzs.html) [在线文档](https://www.mindskip.net:888/)
 - [novel](https://github.com/201206030/novel)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/UCrFNTbzJFdmtVvagm-q9w)</sup> - 一套基于时下最新 `Java` 技术栈 `SpringBoot3` + `Vue3` 开发的前后端分离学习型小说项目。[在线体验](https://novel.xxyopen.com/) [在线文档](https://docs.xxyopen.com/)
 - [xmall](https://github.com/Exrick/xmall) - 基于 `SOA` 架构的分布式电商购物商城，前后端分离。[在线体验](http://xmall.exrick.cn/#/home)
@@ -573,9 +578,10 @@
 
 ### 博客项目
 
+- [paicoding](https://github.com/itwanger/paicoding)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/CGp88UgHA08S3zIZUHjbQA)</sup> - 一个基于 `Spring Boot`、`MyBatis-Plus`、`MySQL`、`Redis`、`ElasticSearch`、`MongoDB`、`Docker`、`RabbitMQ` 等技术栈实现的**社区系统**。[在线体验](https://paicoding.com/)
 - [halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。[在线体验](https://demo.halo.run) [在线文档](https://docs.halo.run/)
 - [DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 基于 `Django` 的博客系统。[在线体验](https://www.lylinux.net/)
-- [bolo-solo](https://github.com/adlered/bolo-solo) - 基于 `Java` 的菠萝博客系统，简单易部署，精致主题，贴心服务，专为程序员设计。[在线体验](https://demo.stackoverflow.wiki/)
+- [bolo-solo](https://github.com/adlered/bolo-solo)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/c02Oc72p1x-olsLOfZkJ8g)</sup> - 基于 `Java` 的菠萝博客系统，简单易部署，精致主题，贴心服务，专为程序员设计。[在线体验](https://demo.stackoverflow.wiki/)
 - [NBlog](https://github.com/Naccl/NBlog) -  `Spring Boot` + `Vue` 前后端分离博客系统。[在线体验](https://naccl.top/home)
 - [symphony](https://github.com/88250/symphony) -  一款用 `Java` 实现的现代化**社区（论坛/问答/BBS/社交网络/博客）**系统平台。
 - [vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统。[在线体验](https://blog-demo.mereith.com/) [在线文档](https://vanblog.mereith.com/)
@@ -815,6 +821,7 @@
 - [video2x](https://github.com/k4yt3x/video2x) - 视频、`Gif` 和图像无损放大工具。
 - [clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 开源 `AI` 图像放大与增强工具。[在线体验](https://clarityai.co/dashboard)
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - 一个轻量级的 `AI` 证件照制作算法。[在线体验](https://huggingface.co/spaces/TheEeeeLin/HivisionIDPhotos)
+- [LiYing](https://github.com/aoguai/LiYing) - 一套适用于自动化 完成一般照相馆后期证件照处理流程的照片自动处理的程序。
 - [MagicMirror](https://github.com/idootop/MagicMirror) - 一键 `AI` 换脸、发型、穿搭，发现更美的自己。
 - ~~[lama-cleaner](https://github.com/Sanster/lama-cleaner) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://cleanup.pictures/)~~
 - [IOPaint](https://github.com/Sanster/IOPaint) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://huggingface.co/spaces/Sanster/iopaint-lama) [在线文档](https://www.iopaint.com/)
